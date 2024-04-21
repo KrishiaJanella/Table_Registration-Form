@@ -12,6 +12,7 @@ body {
     font-family: 'Barlow';
     color: #fff;
     
+    
 
     
 }
@@ -55,16 +56,19 @@ tr:hover{
 }
 
 th{
-    font-weight: lighter;
+    font-weight:400;
     text-align: center;
     
 }
 
 caption{
-    font-size: 30px;
+    font-size: 60px;
     text-transform: uppercase;
-    text-shadow: 3px 3px rgb(146, 32, 32);
+    text-shadow: 3px 3px rgba(87, 87, 87);
     font-weight: bolder;
+    color: #ffffff;
+    word-spacing: 20px;
+    letter-spacing: 5px;
 }
 
 table{
@@ -78,8 +82,9 @@ table{
     background-repeat: no-repeat;
     background-color: rgba(49, 49, 49, .75);
     background-size: center;
-    padding: 30px;
+    padding: 50px 30px;
     border-radius: 30px;
+    
 }
 
 
